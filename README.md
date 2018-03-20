@@ -25,3 +25,6 @@ $ cat train_FaceFour.txt test_FaceFour.txt | ./dtwdp
 
 Example:  
 $ cat train_FaceFour.txt test_FaceFour.txt | ./dtwdp 0
+
+In the following link one can find more files with time series data, but in a different format.
+http://www.cs.ucr.edu/~eamonn/time_series_data/
