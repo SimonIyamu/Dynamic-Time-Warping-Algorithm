@@ -14,14 +14,14 @@ In this case, it is very likely that we consider it unreasonable for the distanc
 Then, we put a limit (restriction) c on the spacing of the two-element positions.
 That c can be given as an argument when executing the program.
 
-Example:
+Example:  
 $ ./dtwdp 1  
 5  
 1.0 2.0 0.0 -1.0 -2.0  
 -1.0 0.0 2.0 3.0 1.0  
 
-Example:
+Example:  
 $ cat train_FaceFour.txt test_FaceFour.txt | ./dtwdp
 
-Example:
+Example:  
 $ cat train_FaceFour.txt test_FaceFour.txt | ./dtwdp 0
