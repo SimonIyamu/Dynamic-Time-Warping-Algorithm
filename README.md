@@ -16,6 +16,7 @@ That c can be given as an argument when executing the program.
 
 Example:
 $ ./dtwdp 1
+
 5
 1.0 2.0 0.0 -1.0 -2.0
 -1.0 0.0 2.0 3.0 1.0
